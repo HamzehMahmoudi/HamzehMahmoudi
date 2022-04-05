@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-hamzeh%20mahmoudi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=hamzeh-mahmoudi)](https://www.linkedin.com/in/hamzeh-mahmoudi-60605b195/) 
 
 ## Github status
-[![github stats](https://github-readme-stats.vercel.app/api?username=hamzehmahmoudi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![github stats](https://github-readme-stats.vercel.app/api?username=hamzehmahmoudi&count_private=true&show_icons=true)](https://github.com/HamzehMahmoudi/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzehmahmoudi&layout=compact&count_private=true)](https://github.com/HamzehMahmoudi/github-readme-stats)
 
 <br />
