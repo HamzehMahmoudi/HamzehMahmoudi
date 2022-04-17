@@ -1,6 +1,6 @@
 ### Hamzeh Mahmoudi 
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=hamzehmhd &style=for-the-badge&up_message=Online&url=https%3A%2F%2Fhamzehmhd.ir)](https://https://hamzehmahmoudi.github.io/)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=hamzehmhd&style=for-the-badge&up_message=Online&url=https://hamzehmahmoudi.github.io/)](https://hamzehmahmoudi.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/H10odi?color=green&logo=twitter&style=for-the-badge)](https://twitter.com/H10odi) 
 
 ### Connect with me:
